@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Veilles on Mon Portfolio</title>
+    <link>http://192.168.1.31/veille/</link>
+    <description>Recent content in Veilles on Mon Portfolio</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.1.31/veille/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green IT</title>
+      <link>http://192.168.1.31/veille/green-it/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.31/veille/green-it/</guid>
+      <description>&lt;h2 id=&#34;ma-veille-technologique---green-it&#34;&gt;Ma Veille Technologique - Green IT&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
